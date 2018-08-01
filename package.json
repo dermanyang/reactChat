@@ -7,6 +7,7 @@
     "lint": "eslint src"
   },
   "dependencies": {
+    "all": "0.0.0",
     "compression": "^1.6.2",
     "express": "^4.15.3",
     "react": "^15.5.4",
